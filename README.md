@@ -11,8 +11,6 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:modinisree@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/modinisree)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/NexMart_Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-ci76.vercel.app)
-
 </div>
 
 ---
@@ -27,23 +25,36 @@ BCA graduate and software engineer from Vijayawada, India with real internship e
 - 📊 Set up **Prometheus + Grafana monitoring** on Kubernetes-deployed apps (resume builder + e-commerce)
 - 🔁 Built standalone **ArgoCD GitOps workflows** (`argo-app`, `argo-git`) for Kubernetes deployments
 - 🌐 Created a personal **travel blog** hosted on GitHub Pages (HTML/CSS)
-- 🎓 Completing BCA @ P.B. Siddhartha College of Arts & Sciences (CGPA: 8.0/10)
-
+  
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js · HTML5 · CSS3 · Bootstrap · JavaScript
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  
+</div>
 
-**Backend:** Node.js · Express.js · REST API Design · JWT Auth · Stripe API
-
-**Databases:** MongoDB · MongoDB Atlas · SQL
-
-**DevOps & Cloud:** Docker · Kubernetes · AWS (EKS, EC2) · GCP · Jenkins · ArgoCD · Helm · Terraform · Ansible · SonarQube · Prometheus · Grafana · ELK Stack · Linux · Shell Scripting
-
-**Languages:** C++ · Java · C · JavaScript
-
-**Tools:** GitLab · GitHub · VS Code · Cloudinary · Vercel · Render
+<p align="center">
+</p>
 
 ---
 
@@ -61,31 +72,20 @@ Built a React resume builder with live PDF preview and a responsive blog platfor
 ---
 
 ## 🚀 Projects
-
-### 🏗️ End-to-End DevOps Platform *(Edubot Internship)*
+**Edubot Internship**
+### 🏗️ End-to-End DevOps Platform
 > A 4-repository DevOps ecosystem for a MERN e-commerce app — from source code to live Kubernetes deployment
 
 | Repo | What it does |
 |------|--------------|
 | [`ecom`](https://github.com/ModiniPadmaSree/ecom) | MERN app + Jenkins CI pipeline (`Jenkinsfile`) with SonarQube scan, Docker build/push & Slack alerts |
 | [`ecom-k8s`](https://github.com/ModiniPadmaSree/ecom-k8s) | Kubernetes manifests + Helm charts + ArgoCD apps + Prometheus/Grafana + ELK dashboards (59 commits) |
-| [`ecom-infra`](https://github.com/ModiniPadmaSree/ecom-infra) | Terraform (EC2 provisioning) + Ansible (K8s cluster setup) — full IaC in HCL |
-| [`ecom-gitops`](https://github.com/ModiniPadmaSree/ecom-gitops) | Dedicated GitOps repo watched by ArgoCD for automated sync & drift detection |
-
+| [`ecom-infra`](https://github.com/ModiniPadmaSree/ecom-infra) | Terraform (EC2 provisioning) + Ansible (K8s cluster setup) — full IaC |
 `Docker` `Kubernetes` `AWS EKS` `Jenkins` `ArgoCD` `Helm` `Terraform` `Ansible` `SonarQube` `Prometheus` `Grafana` `ELK`
 
 ---
 
-### 🛍️ NexMart — Full E-Commerce Platform *(Blackbucks Internship)*
-> **🔗 Live:** [ecommerce-ci76.vercel.app](https://ecommerce-ci76.vercel.app)
-
-[`ecommerce`](https://github.com/ModiniPadmaSree/ecommerce) — Full-stack MERN store with JWT auth, Stripe payments, coupon system, product reviews, order tracking, admin panel (products/orders/users/stock), Cloudinary image hosting. Deployed on Vercel + Render + MongoDB Atlas.
-
-`React` `Node.js` `Express` `MongoDB Atlas` `JWT` `Stripe` `Cloudinary` `Vercel` `Render`
-
----
-
-### 📄 Resume Builder — Docker + Kubernetes *(Elevate Labs Internship)*
+### 📄 Resume Builder deployment — Docker + Kubernetes
 > Real-time resume builder with live preview & client-side PDF generation
 
 | Repo | What it does |
@@ -96,16 +96,14 @@ Built a React resume builder with live PDF preview and a responsive blog platfor
 `React` `Node.js` `Docker` `Kubernetes` `AWS EKS` `PDF Generation` `MongoDB Atlas`
 
 ---
-
 ### 📊 Prometheus Monitoring
 > Kubernetes monitoring setup applied to my deployed apps (resume builder)
 
-[`prometheus`](https://github.com/ModiniPadmaSree/prometheus) — Prometheus + Grafana configured to monitor MERN apps on Kubernetes: pod health, CPU/memory usage, node status. Dashboards for real-time observability.
+[`prometheus`](https://github.com/ModiniPadmaSree/prometheus) — Prometheus + Grafana configured to monitor resume builder app on Kubernetes:  number of Resumes created, failed, pod health, CPU/memory usage, node status. Dashboards for real-time observability.
 
-`Prometheus` `Grafana` `Kubernetes` `Helm`
+`Prometheus` `Grafana` `Kubernetes`
 
 ---
-
 ### 🔁 ArgoCD GitOps Workflows
 > Standalone ArgoCD configurations and GitOps deployment patterns
 
@@ -114,7 +112,28 @@ Built a React resume builder with live PDF preview and a responsive blog platfor
 | [`argo-app`](https://github.com/ModiniPadmaSree/argo-app) | ArgoCD Application manifests — declarative GitOps app definitions for Kubernetes |
 | [`argo-git`](https://github.com/ModiniPadmaSree/argo-git) | Git-side manifests and values files used as ArgoCD source of truth for deployments |
 
-`ArgoCD` `GitOps` `Kubernetes` `Helm` `YAML`
+`ArgoCD` `GitOps` `Kubernetes`  `YAML`
+
+---
+**Blackbucks Internship**
+### 🛍️ NexMart — Full E-Commerce Platform 
+> **🔗 Live:** [ecommerce-ci76.vercel.app](https://ecommerce-ci76.vercel.app)
+
+[`ecommerce`](https://github.com/ModiniPadmaSree/ecommerce) — Full-stack MERN store with JWT auth, Stripe payments, coupon system, product reviews, order tracking, admin panel (products/orders/users/stock), Cloudinary image hosting. Deployed on Vercel + Render + MongoDB Atlas.
+
+`React` `Node.js` `Express` `MongoDB Atlas` `JWT` `Stripe` `Vercel` `Render`
+
+---
+**Elevate Labs Internship**
+### 📄 Resume Builder
+> **🔗 Live:** [resume-builder-pi-khaki.vercel.app](https://resume-builder-pi-khaki.vercel.app) \
+> Real-time resume builder with live preview & client-side PDF generation
+
+| Repo | What it does |
+|------|--------------|
+| [`resumebuilder`](https://github.com/ModiniPadmaSree/Resume-Builder-)) | Full-stack app (React + Node + MongoDB) 
+
+`React` `Node.js` `PDF Generation` `MongoDB Atlas`
 
 ---
 
