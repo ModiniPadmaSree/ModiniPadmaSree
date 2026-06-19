@@ -5,7 +5,7 @@
 **Full-Stack · MERN · DevOps & Cloud**
 
 *I build production-ready web apps and automate everything between code and cloud —*
-*Terraform → Jenkins → Docker → Kubernetes → ArgoCD → Prometheus*
+*Terraform → Jenkins → Docker → Kubernetes → ArgoCD → ELK, Prometheus → Grafana*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padma-sree-modini-737843254)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:modinisree@gmail.com)
@@ -158,22 +158,9 @@ Built a React resume builder with live PDF preview and a responsive blog platfor
 
 ---
 
-## 🏅 Certifications & Achievements
-
-| | |
-|---|---|
-| 🏆 Best Performer Award | Elevate Labs (Web Development domain) — Jun 2025 |
-| ☁️ AWS Cloud Virtual Internship | AICTE EduSkills — 2025 |
-| 🍃 MongoDB & AI Fundamentals | MongoDB Learnathon — 2025 |
-| 💻 Full-Stack Development | Udemy — 2024 |
-
----
-
 <div align="center">
 
-### 📬 Open to Full-Stack & DevOps Roles · Vijayawada, India
 
-[![Email Me](https://img.shields.io/badge/Email-modinisree%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:modinisree@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padma-sree-modini-737843254)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ModiniPadmaSree&color=blueviolet&style=flat-square)
