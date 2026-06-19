@@ -2,7 +2,7 @@
 
 # Modini Padma Sree
 
-**Full-Stack Engineer · DevOps & Cloud · MERN Specialist**
+**Full-Stack · MERN DevOps & Cloud**
 
 *I build production-ready web apps and automate everything between code and cloud —*
 *Terraform → Jenkins → Docker → Kubernetes → ArgoCD → Prometheus*
