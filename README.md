@@ -17,9 +17,9 @@
 
 ## 🙋‍♀️ About Me
 
-BCA graduate and software engineer from Vijayawada, India with real internship experience across the full software delivery lifecycle — from building React UIs and Node.js REST APIs, to containerizing with Docker, provisioning AWS infra with Terraform & Ansible, and running GitOps pipelines with Jenkins + ArgoCD on Kubernetes.
+BCA graduate and software engineer from Vijayawada, India with real internship experience across the full software delivery lifecycle — from building React UIs and Node.js REST APIs, to containerizing with Docker, provisioning AWS infra with Terraform & Ansible, and running CI/CD pipelines with Jenkins + ArgoCD following GitOps strategy.
 
-- 🏆 **Best Performer Award** @ Elevate Labs — only recipient in the Web Development domain
+- 🏆 **Best Performer Award** @ Elevate Labs —  Web Development domain
 - ⚙️ Built a **complete 4-repo DevOps ecosystem** (app + CI + k8s + IaC) at Edubot internship
 - 🛒 Shipped **NexMart** — a live MERN e-commerce platform with Stripe, JWT, admin panel & Cloudinary
 - 📊 Set up **Prometheus + Grafana monitoring** on Kubernetes-deployed apps (resume builder + e-commerce)
