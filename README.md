@@ -66,7 +66,7 @@ Containerized microservices, built Jenkins CI/CD with SonarQube & Slack, managed
 ### 🛒 MERN Stack Intern — Blackbucks *(May 2025 – Jul 2025)*
 Built 5+ secure REST APIs, complete e-commerce workflows (catalog, cart, search, checkout), and responsive React UIs. Shipped NexMart live on Vercel + Render.
 
-### ✍️ Full-Stack Intern — Elevate Labs *(May 2025 – Jun 2025)* 🏆 Best Performer
+### ✍️ Web-Development Intern — Elevate Labs *(May 2025 – Jun 2025)* 🏆 Best Performer
 Built a React resume builder with live PDF preview and a responsive blog platform. Won Best Performer Award — only recipient in the Web Development domain.
 
 ---
